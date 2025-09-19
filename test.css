@@ -457,9 +457,7 @@ h1.ui-title {
 textarea {
     background: #fff !important;
     color: #292F33 !important;
-    font-family: "Calibri", sans-serif !important;
-    font-weight: normal !important;
-    font-size: 16px !important;
+    font-family: "Calibri", sans-serif !important
 }
 
 .ui-input-text:not(.validation-error),
