@@ -428,6 +428,7 @@ body {
 .ui-header {
     border-width: 0 !important;
     background: linear-gradient(90deg, #3b82f6, #85c8ff) !important; /* Gradient */
+    background-color: #3b82f6 !important; /* Fallback for older browsers */
 }
 
 h1.ui-title {
